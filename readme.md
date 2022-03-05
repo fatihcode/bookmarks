@@ -18,11 +18,16 @@ Sözün de geçtiği gibi öğrenirken günlük hayatta bu verilere farklı mecr
 
 ## YOUTUBE
 
-Adem İlter
+#### Adem İlter
 
-Prototürk
+[https://www.youtube.com/ademilter](https://www.youtube.com/ademilter)
 
-React Dersleri
+#### Prototürk
+
+
+#### React Dersleri
+
+[https://www.youtube.com/c/ReactDersleri](https://www.youtube.com/c/ReactDersleri)
 
 Alpcan Aydın
 
@@ -36,10 +41,43 @@ Yazlım Bilimi
 
 Arin Yazılım
 
-Yalin Kod
+#### Bilgisayar Kavramları - Şadi Evren Şeker
+
+[https://www.youtube.com/c/Sadievrenseker_BK](https://www.youtube.com/c/Sadievrenseker_BK)
+
+#### Yalin Kod - Bilgem Çakır
+
+[https://www.youtube.com/c/YalinKod](https://www.youtube.com/c/YalinKod)
 
 ## TWİTTER
 
+
 ## MEDIUM
 
+https://odayibasi.medium.com/
+
+https://zaferayan.medium.com/
+
+https://atarikguney.medium.com/
+
+https://medium.com/@bilgemcakir
+
 ## GITHUB
+
+https://github.com/sadikturan
+
+https://github.com/Kodluyoruz
+
+https://github.com/ademilter
+
+https://github.com/SelmanKahya
+
+https://github.com/omergulcicek
+
+https://github.com/f
+
+https://github.com/Asabeneh
+
+
+
+https://app.patika.dev/egitimler
