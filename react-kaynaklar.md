@@ -36,17 +36,27 @@
 
 ## ⭐GÖRSEL DÖKÜMANLAR
 
-#### ❯ JavaScript'in yeni syntax'ına (ES6), Array ve Object metodlarına genel bir bakış - Alpcan Aydın
+#### ⬜ JavaScript'in yeni syntax'ına (ES6), Array ve Object metodlarına genel bir bakış - Alpcan Aydın
 
-[https://www.youtube.com/watch?v=kRknZ6ejQ_8](https://www.youtube.com/watch?v=kRknZ6ejQ_8)
+> React'da çok kullanılan, ECMAScript6 ile gelen özelliklerin tek videoda anlatımı. Eski JS konularını tekrar etmek için güzel bir kaynak. Tüm içeriği uygulamalı anlatıyor.
 
-#### ❯ Sıfırdan Uygulamalı React Geliştirme - Sadık Turan (12 Ders) [2022]
+✔ [https://www.youtube.com/watch?v=kRknZ6ejQ_8](https://www.youtube.com/watch?v=kRknZ6ejQ_8)
 
-[https://www.youtube.com/playlist?list=PLXuv2PShkuHzbwIbcT29XZJBLyx3nWDzb](https://www.youtube.com/playlist?list=PLXuv2PShkuHzbwIbcT29XZJBLyx3nWDzb)
+---
 
-#### ❯ ReactJS Eğitim Serisi - Yazılım Bilimi (35 Ders) [2019]
+#### ⬜ Sıfırdan Uygulamalı React Geliştirme - Sadık Turan (103 Ders) [2022]
 
-[https://www.youtube.com/playlist?list=PLIHume2cwmHeydP0GkOzSxJHT1ph1BrWj
+> İlk 12 video ücretsiz sonraki videolar youtube katıl üyelerine özel aylık 10₺ abonelik ücreti ile sunuluyor.
+
+`function components` `class components`
+
+✔ [https://www.youtube.com/playlist?list=PLXuv2PShkuHzbwIbcT29XZJBLyx3nWDzb](https://www.youtube.com/playlist?list=PLXuv2PShkuHzbwIbcT29XZJBLyx3nWDzb)
+
+---
+
+#### ⬜ ReactJS Eğitim Serisi - Yazılım Bilimi (35 Ders) [2019]
+
+✔ [https://www.youtube.com/playlist?list=PLIHume2cwmHeydP0GkOzSxJHT1ph1BrWj
 ](https://www.youtube.com/playlist?list=PLIHume2cwmHeydP0GkOzSxJHT1ph1BrWj)
 
 ---
