@@ -98,10 +98,4 @@
 
 ---
 
-<div style="text-align:center; font-family: 'Segoe UI';font-size:20px;font-weight:600">
-<a href="./readme.html">Anasayfa</a> |
-<a href="./html-css-kaynaklar.html">Html-Css</a> |
-<a href="./javascript-kaynaklar.html">JavaScript</a> |
-<a href="./react-kaynaklar.html">React</a>
-</div>
-
+#### [Anasayfa ](./readme.md) | [Html-Css](./html-css-kaynaklar.md) | [JavaScript](./javascript-kaynaklar.md) | [React](./react-kaynaklar.md)

@@ -28,7 +28,7 @@
 
 ## TAKİP EDİLESİ HESAPLAR
 
- *Dil öğrenme adına en etkili yöntem o dile mümkün olduğunca fazla maruz kalmaktır.* Sözün de geçtiği gibi öğrenirken günlük hayatta bu verilere farklı mecralardan da maruz kalırsak o kadar hızlı mesafe alırız. Kendi takip ettiğim hesapları aşağıda listeledim. Unuttuklarım var gördükçe güncellemeye çalışacağım.
+ ***Dil öğrenme** adına en etkili yöntem o **dile** mümkün olduğunca fazla **maruz** kalmaktır.* Sözün de geçtiği gibi öğrenirken günlük hayatta bu verilere farklı mecralardan da maruz kalırsak o kadar hızlı mesafe alırız. Kendi takip ettiğim hesapları aşağıda listeledim. Unuttuklarım var gördükçe güncellemeye çalışacağım.
 
 ## ⭐ YOUTUBE
 
@@ -50,7 +50,7 @@
 
 ### ☕ Yalin Kod - Bilgem Çakır
 
-> Microsoft ve amazonda bulunmuş, şu anda kurduğu indie oyun stüdyosunda kendi oyunlarını geliştiren çılgın tecrübe sahibi, oldukça mütevazi aşmış developer.
+> Microsoft'ta, amazonda bulunmuş, şu anda kendi kurduğu indie oyun stüdyosu [night lore studios](http://nightlorestudios.com/ "http://nightlorestudios.com/")'da kendi oyunlarını geliştiren çılgın tecrübe sahibi, oldukça mütevazi aşmış developer.
 
 ✔ [https://www.youtube.com/c/YalinKod](https://www.youtube.com/c/YalinKod)
 
@@ -120,9 +120,4 @@
 
 ---
 
-<div style="text-align:center; font-family: 'Segoe UI';font-size:20px;font-weight:600">
-<a href="./readme.html">Anasayfa</a> |
-<a href="./html-css-kaynaklar.html">Html-Css</a> |
-<a href="./javascript-kaynaklar.html">JavaScript</a> |
-<a href="./react-kaynaklar.html">React</a>
-</div>
+#### [Anasayfa ](./readme.md) | [Html-Css](./html-css-kaynaklar.md) | [JavaScript](./javascript-kaynaklar.md) | [React](./react-kaynaklar.md)
