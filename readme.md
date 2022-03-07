@@ -28,7 +28,7 @@
 
 ## TAKİP EDİLESİ HESAPLAR
 
- ***Dil öğrenme** adına en etkili yöntem o **dile** mümkün olduğunca fazla **maruz** kalmaktır.* Sözün de geçtiği gibi öğrenirken günlük hayatta bu verilere farklı mecralardan da maruz kalırsak o kadar hızlı mesafe alırız. Kendi takip ettiğim hesapları aşağıda listeledim. Unuttuklarım var gördükçe güncellemeye çalışacağım.
+ *Dil öğrenme adına en etkili yöntem o dile mümkün olduğunca fazla maruz kalmaktır.* Sözün de geçtiği gibi öğrenirken günlük hayatta bu verilere farklı mecralardan da maruz kalırsak o kadar hızlı mesafe alırız. Kendi takip ettiğim hesapları aşağıda listeledim. Unuttuklarım var gördükçe güncellemeye çalışacağım.
 
 ## ⭐ YOUTUBE
 
@@ -50,7 +50,7 @@
 
 ### ☕ Yalin Kod - Bilgem Çakır
 
-> Microsoft'ta, amazonda bulunmuş, şu anda kendi kurduğu indie oyun stüdyosu [night lore studios](http://nightlorestudios.com/ "http://nightlorestudios.com/")'da kendi oyunlarını geliştiren çılgın tecrübe sahibi, oldukça mütevazi aşmış developer.
+> Benim adım Bilgem Çakır. Yaklaşık 30 yıldır yazılım üretiyorum. Türkiye’de, Avrupa’da ve Amerika’da 1 kişiden 3000 kişiye kadar ekiplerin, 9 aydan 4 yıla kadar sürelerde çalıştığı projelerde rol aldım. Onlarca ülkeden binlerce mühendis, sanatçı, yönetici, pazarlamacı  ile yollarım kesişti. Bu insanların hangi davranışlar ile öne çıkabildiğini gözlemleme imkanım oldu. Bu gözlemlerin, Türkiye’deki mühendislere farklı ve faydalı bir perspektif sunmasını umarak Yalın Kod’u başlattım.
 
 ✔ [https://www.youtube.com/c/YalinKod](https://www.youtube.com/c/YalinKod)
 
