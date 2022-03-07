@@ -1,36 +1,63 @@
 # ⚛️ REACT KAYNAKLAR
 
-Çalışırken kendi yararlandığım kaynakları bir araya toparladım.
+Çalışırken yararlandığım türkçe kaynakları kolay ulaşabilmek için derledim. Kaynakları kullandıkça altlarına notlar almaya çalışacağım. Tarihleri özellikle belirttim çünkü videolar yayınlandığı tarihlerdeki dökümantasyona göre hazırlanıyor ama kütüphaneler sürekli güncelleniyor ona dikkat ederek izlemek gerekli.
 
 ## ⭐YAZILI DÖKÜMANLAR
 
-#### ❯ React Türkçe Dökümanı (Ana Kaynak)
+#### ⬜ React Türkçe Dökümanı
 
-[https://tr.reactjs.org/](https://tr.reactjs.org/)
+> React resmi dökümanı
 
-#### ❯ React.js Özet Döküman - Orçun Tuna
+✔ [https://tr.reactjs.org/](https://tr.reactjs.org/)
 
-[https://github.com/orcuntuna/react-turkce-kaynak#jsx-ve-html](https://github.com/orcuntuna/react-turkce-kaynak#jsx-ve-html)
+---
 
-#### ❯ React Js Türkçe Doküman - Ömer Gülçiçek
+#### ⬜ React.js Özet Döküman - Orçun Tuna
 
-[https://omergulcicek.github.io/react/](https://omergulcicek.github.io/react/)
+> Çok sade ve güzel bir döküman. React hakkında hızlıca fikir sahibi olunabiliyor. Başlangıç seviyesi için ideal bir kaynak.
 
-#### ❯ React Router Türkçe Doküman - Ömer Gülçiçek
+✔ [https://github.com/orcuntuna/react-turkce-kaynak#jsx-ve-html](https://github.com/orcuntuna/react-turkce-kaynak#jsx-ve-html)
 
-[https://omergulcicek.github.io/react-router/](https://omergulcicek.github.io/react-router/)
+---
 
-#### ❯ A’dan Z’ye React — Türkçe kaynak - Yavuz AKINCI
+#### ⬜ React Js Türkçe Doküman - Ömer Gülçiçek
 
-[https://medium.com/kocsistem/a-dan-z-ye-react-facce30533d0](https://medium.com/kocsistem/a-dan-z-ye-react-facce30533d0)
+> React [resmi dökümanı](https://reactjs.org/) türkçeye çevirilmeden önce kendi çabaları ile türkçeye çevirmiş. Üzerine kendi notlarını ekleyerek güzel bir içerik sağlamış.
 
-#### ❯ Z’den A’ya Redux — Türkçe kaynak - Yavuz AKINCI
+✔ [https://omergulcicek.github.io/react/](https://omergulcicek.github.io/react/)
 
-[https://medium.com/kocsistem/zden-a-ya-redux-922e29d4e562](https://medium.com/kocsistem/zden-a-ya-redux-922e29d4e562)
+---
 
-#### ❯ 30 Days Of React - Asabeneh
+#### ⬜ React Router Türkçe Doküman - Ömer Gülçiçek
 
-[https://github.com/Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
+> Ömer Gülçiçek [react router](https://github.com/reactjs/react-router-tutorial) dökümanını türkçeye uyarlamış. Router son güncellmeleri içermiyor ona dikkat ederek okunmalı.
+
+✔ [https://omergulcicek.github.io/react-router/](https://omergulcicek.github.io/react-router/)
+
+---
+
+#### ⬜ A’dan Z’ye React — Türkçe kaynak - Yavuz AKINCI
+
+> *"React’i öğrenirken kendi kendime 'En iyisi notlar alayım ileride takılırsam dönüp notlarıma bakarım' diye düşüp notlar almaya başladım."*
+> Yazarı makaleye bu şekilde başlıyor. React hakkında güzel bir özet döküman.
+
+✔ [https://medium.com/kocsistem/a-dan-z-ye-react-facce30533d0](https://medium.com/kocsistem/a-dan-z-ye-react-facce30533d0)
+
+---
+
+#### ⬜ Z’den A’ya Redux — Türkçe kaynak - Yavuz AKINCI
+
+> Redux konusunu güzel bir hikaye ile anlatıyor. Redux için türkçe kaynak.
+
+✔ [https://medium.com/kocsistem/zden-a-ya-redux-922e29d4e562](https://medium.com/kocsistem/zden-a-ya-redux-922e29d4e562)
+
+---
+
+#### ⬜ 30 Days Of React - Asabeneh
+
+> 30 Days of içerikleriyle meşhur olan Asabeneh react içinde güzel bir egzerzis ve ders hazırlamış.
+
+✔ [https://github.com/Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
 
 ---
 
@@ -48,95 +75,118 @@
 
 > İlk 12 video ücretsiz sonraki videolar youtube katıl üyelerine özel aylık 10₺ abonelik ücreti ile sunuluyor.
 
-`function components` `class components`
-
 ✔ [https://www.youtube.com/playlist?list=PLXuv2PShkuHzbwIbcT29XZJBLyx3nWDzb](https://www.youtube.com/playlist?list=PLXuv2PShkuHzbwIbcT29XZJBLyx3nWDzb)
 
 ---
 
 #### ⬜ ReactJS Eğitim Serisi - Yazılım Bilimi (35 Ders) [2019]
 
-✔ [https://www.youtube.com/playlist?list=PLIHume2cwmHeydP0GkOzSxJHT1ph1BrWj
-](https://www.youtube.com/playlist?list=PLIHume2cwmHeydP0GkOzSxJHT1ph1BrWj)
+> Çoğumuzun aşina olduğu bir kanaldır yazılım bilimi burada react giriş seviyesi için class comp kullanarak bir uygulama üzerinden anlatıyor.
+
+✔ [https://www.youtube.com/playlist?list=PLIHume2cwmHeydP0GkOzSxJHT1ph1BrWj](https://www.youtube.com/playlist?list=PLIHume2cwmHeydP0GkOzSxJHT1ph1BrWj)
 
 ---
 
-#### ❯ Yeni Başlayanlar İçin React Dersleri - React Dersleri (10 Ders) [2021]
+#### ⬜ Yeni Başlayanlar İçin React Dersleri - React Dersleri (10 Ders) [2021]
 
-[https://www.youtube.com/playlist?list=PL8IHDq7oEkgFKYIoNuubfZMuhhgEukkAg](https://www.youtube.com/playlist?list=PL8IHDq7oEkgFKYIoNuubfZMuhhgEukkAg)
+> React resmi dökümanında ki başlıkları takip ederek tüm içeriği functinal component ve hook'lara göre hazırlamış. Hook'ları öğrenmek için ideal bi içerik.
 
-#### ❯ React Redux Dersleri - React Dersleri (4 Ders) [2020]
+✔ [https://www.youtube.com/playlist?list=PL8IHDq7oEkgFKYIoNuubfZMuhhgEukkAg](https://www.youtube.com/playlist?list=PL8IHDq7oEkgFKYIoNuubfZMuhhgEukkAg)
 
-[https://www.youtube.com/playlist?list=PL8IHDq7oEkgHD9IQfNzUio8sDwVzfLKb8](https://www.youtube.com/playlist?list=PL8IHDq7oEkgHD9IQfNzUio8sDwVzfLKb8)
+---
 
-#### ❯ React useState kullanımı, state kullanımında function/class component karşılaştırması
+#### ⬜ REACT İle Web Programcılığı - Engin Demiroğ
 
-[https://www.youtube.com/watch?v=K67LrvuLiUM](https://www.youtube.com/watch?v=K67LrvuLiUM)
+> T.C. Hazine ve Maliye Bakanlığı Bilgi Teknolojileri Genel Müdürlüğü tarafından yürütülen 1 milyon istihdam projesi kapsamında ücretsiz yazılım dersleri sunuyorlar. e-devlet şifresi ile giriş yapıp içersindeki diğer eğitimlere de ücretsiz ulaşabilirsiniz.
 
-#### ❯ React useEffect kullanımı, class/function component içinde karşılaştırmalı lifecycle kullanımı
+✔ [https://www.btkakademi.gov.tr/portal/course/react-ile-web-programc-l-g--10035](https://www.btkakademi.gov.tr/portal/course/react-ile-web-programc-l-g--10035)
 
-[https://www.youtube.com/watch?v=u5qWZQNvl-0](https://www.youtube.com/watch?v=u5qWZQNvl-0)
+---
 
-#### ❯ React Redux Kullanımı
+#### ⬜ React Redux Dersleri - React Dersleri (4 Ders) [2020]
 
-[https://www.youtube.com/watch?v=UWB8948Kko4](https://www.youtube.com/watch?v=UWB8948Kko4)
+> Redux'ı hook kullanarak uygulamalı olarak anlatan güzel bir içerik.
 
-#### ❯ React Tutorial - Inline Style | Css Stylesheets | Css Modules | Styled Components
+✔ [https://www.youtube.com/playlist?list=PL8IHDq7oEkgHD9IQfNzUio8sDwVzfLKb8](https://www.youtube.com/playlist?list=PL8IHDq7oEkgHD9IQfNzUio8sDwVzfLKb8)
 
-[https://www.youtube.com/watch?v=bs0imLHWk70](https://www.youtube.com/watch?v=bs0imLHWk70)
+---
+
+#### ⬜ React Redux Kullanımı - Prototürk (1 Ders) [2021]
+
+> Redux Toolkiti counter uygulaması ile anlatıyor.
+
+✔ [https://www.youtube.com/watch?v=UWB8948Kko4](https://www.youtube.com/watch?v=UWB8948Kko4)
+
+---
+
+#### ⬜ Facebook React JS Eğitimi - Üstün Özgür (4 Ders) [2015]
+
+> React için belkide en eski türkçe döküman. React'ın gelişim süreci de çok rahatlıkla görülebiliyor. İlk 2 video seminer tarzında ve konunun mantığını çok güzel izah ediyor.
+
+✔ [https://www.youtube.com/playlist?list=PLC9XHh8X_kVJueSCNIp5ta_PcfOHpFKmO](https://www.youtube.com/playlist?list=PLC9XHh8X_kVJueSCNIp5ta_PcfOHpFKmO)
+
+---
+
+#### ⬜ React Tutorial - Inline Style | Css Stylesheets | Css Modules | Styled Components
+
+> React'da css kullanımını anlatan bir kaynak.
+
+✔ [https://www.youtube.com/watch?v=bs0imLHWk70](https://www.youtube.com/watch?v=bs0imLHWk70)
 
 ---
 
 ## ⭐UYGULAMA VİDEOLARI
 
-#### ❯ React Js - To - Do App (4 Ders) [2021] (Class Comp)
+> Öğrenmenin en iyi yolu bir proje üzerinde çalışmaktır. Aşağıda adım adım proje yapım videoları listeledim.
 
-[https://www.youtube.com/playlist?list=PL3dHQB1OoCaDKZeESurPbURL9Gr4ZMMuS](https://www.youtube.com/playlist?list=PL3dHQB1OoCaDKZeESurPbURL9Gr4ZMMuS)
+#### ⬜ React Js - To - Do App (4 Ders) [2021] (Class Comp)
 
-#### ❯ React ile adım adım Yapılacaklar Listesi uygulaması yapımı
+✔ [https://www.youtube.com/playlist?list=PL3dHQB1OoCaDKZeESurPbURL9Gr4ZMMuS](https://www.youtube.com/playlist?list=PL3dHQB1OoCaDKZeESurPbURL9Gr4ZMMuS)
 
-[https://www.youtube.com/watch?v=5f1aXo24SMM](https://www.youtube.com/watch?v=5f1aXo24SMM)
+#### ⬜ React ile adım adım Yapılacaklar Listesi uygulaması yapımı
 
-#### ❯ React içinde fetch() ve axios ile API'dan veri almak
+✔ [https://www.youtube.com/watch?v=5f1aXo24SMM](https://www.youtube.com/watch?v=5f1aXo24SMM)
 
-[https://www.youtube.com/watch?v=jNwU5gcrIrg](https://www.youtube.com/watch?v=jNwU5gcrIrg)
+#### ⬜ React içinde fetch() ve axios ile API'dan veri almak
 
-#### ❯ Reactjs ile Todo Uygulaması - Yeni Başlayanlar İçin React Projesi (FULL)
+✔ [https://www.youtube.com/watch?v=jNwU5gcrIrg](https://www.youtube.com/watch?v=jNwU5gcrIrg)
 
-[https://www.youtube.com/watch?v=FeWTu1NhlBo](https://www.youtube.com/watch?v=FeWTu1NhlBo)
+#### ⬜ Reactjs ile Todo Uygulaması - Yeni Başlayanlar İçin React Projesi (FULL)
 
-#### ❯ React Router ile tek sayfa uygulama (single page applications) yapımı
+✔ [https://www.youtube.com/watch?v=FeWTu1NhlBo](https://www.youtube.com/watch?v=FeWTu1NhlBo)
 
-[https://www.youtube.com/watch?v=Jrlp1-Wu-Iw](https://www.youtube.com/watch?v=Jrlp1-Wu-Iw)
+#### ⬜ React Router ile tek sayfa uygulama (single page applications) yapımı
 
-#### ❯ React Redux ile Yapılacaklar Listesi Yapımı
+✔ [https://www.youtube.com/watch?v=Jrlp1-Wu-Iw](https://www.youtube.com/watch?v=Jrlp1-Wu-Iw)
 
-[https://www.youtube.com/watch?v=EuzdwPjFldg](https://www.youtube.com/watch?v=EuzdwPjFldg)
+#### ⬜ React Redux ile Yapılacaklar Listesi Yapımı
 
-#### ❯ Build A Todo App With REACT | React Project For Beginners (FULL)
+✔ [https://www.youtube.com/watch?v=EuzdwPjFldg](https://www.youtube.com/watch?v=EuzdwPjFldg)
 
-[https://www.youtube.com/watch?v=pCA4qpQDZD8](https://www.youtube.com/watch?v=pCA4qpQDZD8)
+#### ⬜ Build A Todo App With REACT | React Project For Beginners (FULL)
 
-#### ❯ Build a Weather App in React JS | React JS beginner Tutorial
+✔ [https://www.youtube.com/watch?v=pCA4qpQDZD8](https://www.youtube.com/watch?v=pCA4qpQDZD8)
 
-[https://www.youtube.com/watch?v=GuA0_Z1llYU](https://www.youtube.com/watch?v=GuA0_Z1llYU)
+#### ⬜ Build a Weather App in React JS | React JS beginner Tutorial
 
-#### ❯ React ile Para Harcama Uygulaması
+✔ [https://www.youtube.com/watch?v=GuA0_Z1llYU](https://www.youtube.com/watch?v=GuA0_Z1llYU)
 
-[https://www.youtube.com/watch?v=vWL5_Lapr7w](https://www.youtube.com/watch?v=vWL5_Lapr7w)
+#### ⬜ React ile Para Harcama Uygulaması
 
-#### ❯ React Autocomplete
+✔ [https://www.youtube.com/watch?v=vWL5_Lapr7w](https://www.youtube.com/watch?v=vWL5_Lapr7w)
 
-[https://www.youtube.com/watch?v=2yGhjADh20M](https://www.youtube.com/watch?v=2yGhjADh20M)
+#### ⬜ React Autocomplete
 
-#### ❯ React Js ile Konum Bazlı Hava Durumu Gösterimi
+✔ [https://www.youtube.com/watch?v=2yGhjADh20M](https://www.youtube.com/watch?v=2yGhjADh20M)
 
-[https://www.youtube.com/watch?v=6m8eFnnk3nQ](https://www.youtube.com/watch?v=6m8eFnnk3nQ)
+#### ⬜ React Js ile Konum Bazlı Hava Durumu Gösterimi
 
-#### ❯ React Js ile The New York Times API Entegrasyonu
+✔ [https://www.youtube.com/watch?v=6m8eFnnk3nQ](https://www.youtube.com/watch?v=6m8eFnnk3nQ)
 
-[https://www.youtube.com/watch?v=_bTldr9_XMc](https://www.youtube.com/watch?v=_bTldr9_XMc)
+#### ⬜ React Js ile The New York Times API Entegrasyonu
 
-#### ❯ ReactJS Hooks ile Gerisayım Uygulaması
+✔ [https://www.youtube.com/watch?v=_bTldr9_XMc](https://www.youtube.com/watch?v=_bTldr9_XMc)
 
-[https://www.youtube.com/watch?v=GamVK3j17FU](https://www.youtube.com/watch?v=GamVK3j17FU)
+#### ⬜ ReactJS Hooks ile Gerisayım Uygulaması
+
+✔ [https://www.youtube.com/watch?v=GamVK3j17FU](https://www.youtube.com/watch?v=GamVK3j17FU)
