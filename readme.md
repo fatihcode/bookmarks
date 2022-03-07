@@ -1,18 +1,16 @@
-# KAYNAK LİSTESİ
+# FRONTEND DEVELOPER BOOKMARKS
 
 Çalışmalarım boyunca yararlandığım ya da yararlanmayı düşündüğüm kaynakları bir araya toparlamaya çalıştım. Uzun olduğu için ayrı liste yapmayı tercih ettim.
 
-### [Html-Css Kaynak Listesi](./html-css-kaynaklar.md)
+## ⭐ [Html-Css Kaynak Listesi](./html-css-kaynaklar.md)
 
-### [JavaScript Kaynak Listesi](./javascript-kaynaklar.md)
+## ⭐ [JavaScript Kaynak Listesi](./javascript-kaynaklar.md)
 
-### [React Kaynak Listesi](./react-kaynaklar.md)
+## ⭐ [React Kaynak Listesi](./react-kaynaklar.md)
 
----
+## ⭐ EĞİTİM KANALLARI
 
-## ⭐EĞİTİM KANALLARI
-
-### ⬜ Patika.dev
+### ⛪ Patika.dev
 
 > İçerisinde ücretsiz yazılım eğitimlerini barındıran bir topluluk. Bootcamplar, proje örnekleri vs incelenmesinde azami yarar var.
 
@@ -20,7 +18,7 @@
 
 ---
 
-### ⬜ BTK Akademi
+### ⛪ BTK Akademi
 
 > T.C. Hazine ve Maliye Bakanlığı Bilgi Teknolojileri Genel Müdürlüğü tarafından yürütülen 1 milyon istihdam projesi kapsamında ücretsiz yazılım dersleri sunuyorlar. e-devlet şifresi ile giriş yapıp içersindeki diğer eğitimlere de ücretsiz ulaşabilirsiniz.
 
@@ -28,23 +26,21 @@
 
 ---
 
-# Takip Edilesi Hesaplar
+## TAKİP EDİLESİ HESAPLAR
 
-> **Dil öğrenme** adına en etkili yöntem o **dile** mümkün olduğunca fazla **maruz** kalmaktır.
-
-Sözün de geçtiği gibi öğrenirken günlük hayatta bu verilere farklı mecralardan da maruz kalırsak o kadar hızlı mesafe alırız. Kendi takip ettiğim hesapları aşağıda listeledim. Unuttuklarım var gördükçe güncellemeye çalışacağım.
+ *Dil öğrenme adına en etkili yöntem o dile mümkün olduğunca fazla maruz kalmaktır.* Sözün de geçtiği gibi öğrenirken günlük hayatta bu verilere farklı mecralardan da maruz kalırsak o kadar hızlı mesafe alırız. Kendi takip ettiğim hesapları aşağıda listeledim. Unuttuklarım var gördükçe güncellemeye çalışacağım.
 
 ## ⭐ YOUTUBE
 
-### ⬜ İstanbul Coders
+### ☕ İstanbul Coders
 
-> Yazılım, yeni teknolojiler hakkında seminer ve etkinlik kayıtları yayınlıyorlar.
+> Bilişim ve programlama ile ilgili değişik konularda mesleğinde yetkin insanları bir araya getiren ve bir çok insana yeni teknolojileri tanıtan, mesleğinde kendini geliştirmeye çalışan herkesi de katkı sunmaya davet eden bir topluluk.
 
 ✔ [https://www.youtube.com/c/IstanbulCoders34](https://www.youtube.com/c/IstanbulCoders34)
 
 ---
 
-### ⬜ Çay Kahve İnsan
+### ☕ Çay Kahve İnsan
 
 > Yazılımcı Sohbetleri, Tasarımcı Sohbetleri, SEO Sohbetleri, Girişimci Sohbetleri, Başarı Hikayesi, Başarısızlık Hikayesi, Kuluçka Merkezleri, Meslek Hikayeleri, Yazılım Ofisleri, Ofis Turu, Oyuncu Odası, Nasıl Açılır ve birbirinden farklı konu röportajlar..
 
@@ -52,17 +48,35 @@ Sözün de geçtiği gibi öğrenirken günlük hayatta bu verilere farklı mecr
 
 ---
 
-### ⬜ Bilgisayar Kavramları - Şadi Evren Şeker
+### ☕ Yalin Kod - Bilgem Çakır
 
-✔ [https://www.youtube.com/c/Sadievrenseker_BK](https://www.youtube.com/c/Sadievrenseker_BK)
+> Microsoft ve amazonda bulunmuş, şu anda kurduğu indie oyun stüdyosunda kendi oyunlarını geliştiren çılgın tecrübe sahibi, oldukça mütevazi aşmış developer.
+
+✔ [https://www.youtube.com/c/YalinKod](https://www.youtube.com/c/YalinKod)
 
 ---
 
-### ⬜ Yalin Kod - Bilgem Çakır
+### ☕ Doğukan Güven Nomak
 
-> Microsoft'ta, amazonda bulunmuş, şu anda kendi kurduğu indie oyun stüdyosu [night lore studios](http://nightlorestudios.com/ "http://nightlorestudios.com/")'da kendi oyunlarını geliştiren çılgın tecrübe sahibi, oldukça mütevazi aşmış developer.
+> Bilişim sektöründen insanlarla yaptığı sohbetler takibe değer.
 
-✔ [https://www.youtube.com/c/YalinKod](https://www.youtube.com/c/YalinKod)
+✔ [https://www.youtube.com/c/dnomak](https://www.youtube.com/c/dnomak)
+
+---
+
+### ☕ Uğur Umutluoğlu
+
+> Uğur Umutluoğlu'nun yazılım, teknoloji ve girişimcilik konuları üzerine bazen konuklarıyla yaptığı söyleşiler, bazen de kendi düşüncelerini paylaştığı videolardan oluşur.
+
+✔ [https://www.youtube.com/c/UgurUmutluoglu](https://www.youtube.com/c/UgurUmutluoglu)
+
+---
+
+### ☕ Armağan Amcalar
+
+> Yazılım geliştirme süreçleri ve sektörün dinamikleri hakkında birçok mecrada videolar yayınlayan iyi bir yazılımcı.
+
+✔ [https://www.youtube.com/c/Arma%C4%9FanAmcalar](https://www.youtube.com/c/Arma%C4%9FanAmcalar)
 
 ---
 
@@ -102,12 +116,13 @@ Sözün de geçtiği gibi öğrenirken günlük hayatta bu verilere farklı mecr
 
 ✔ [https://github.com/Kodluyoruz](https://github.com/Kodluyoruz)
 
-✔ [https://github.com/ademilter](https://github.com/ademilter)
-
-✔ [https://github.com/SelmanKahya](https://github.com/SelmanKahya)
-
 ✔ [https://github.com/omergulcicek](https://github.com/omergulcicek)
 
-✔ [https://github.com/f](https://github.com/f)
+---
 
-✔ [https://github.com/Asabeneh](https://github.com/Asabeneh)
+<div style="text-align:center; font-family: 'Segoe UI';font-size:20px;font-weight:600">
+<a href="./readme.md">Anasayfa</a> |
+<a href="./html-css-kaynaklar.md">Html-Css</a> |
+<a href="./javascript-kaynaklar.md">JavaScript</a> |
+<a href="./react-kaynaklar.md">React</a>
+</div>

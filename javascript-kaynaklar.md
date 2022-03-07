@@ -95,3 +95,12 @@
 ✔ [https://www.tutorialrepublic.com/javascript-examples.php](https://www.tutorialrepublic.com/javascript-examples.php)
 
 ✔ [https://www.yazilimbilisim.net/javascript/javascript-ornekleri](https://www.yazilimbilisim.net/javascript/javascript-ornekleri)
+
+---
+
+<div style="text-align:center; font-family: 'Segoe UI';font-size:20px;font-weight:600">
+<a href="./readme.md">Anasayfa</a> |
+<a href="./html-css-kaynaklar.md">Html-Css</a> |
+<a href="./javascript-kaynaklar.md">JavaScript</a> |
+<a href="./react-kaynaklar.md">React</a>
+</div>
