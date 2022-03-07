@@ -2,7 +2,7 @@
 
 Çalışırken yararlandığım türkçe kaynakları kolay ulaşabilmek için derledim. Kaynakları kullandıkça altlarına notlar almaya çalışacağım. Tarihleri özellikle belirttim çünkü videolar yayınlandığı tarihlerdeki dökümantasyona göre hazırlanıyor ama kütüphaneler sürekli güncelleniyor ona dikkat ederek izlemek gerekli.
 
-## ⭐YAZILI DÖKÜMANLAR
+## ⭐ YAZILI DÖKÜMANLAR ⭐
 
 #### ⬜ React Türkçe Dökümanı
 
@@ -61,7 +61,7 @@
 
 ---
 
-## ⭐GÖRSEL DÖKÜMANLAR
+## ⭐ GÖRSEL DÖKÜMANLAR ⭐
 
 #### ⬜ JavaScript'in yeni syntax'ına (ES6), Array ve Object metodlarına genel bir bakış - Alpcan Aydın
 
@@ -135,7 +135,7 @@
 
 ---
 
-## ⭐UYGULAMA VİDEOLARI
+## ⭐ UYGULAMA VİDEOLARI ⭐
 
 > Öğrenmenin en iyi yolu bir proje üzerinde çalışmaktır. Aşağıda adım adım proje yapım videoları listeledim.
 
