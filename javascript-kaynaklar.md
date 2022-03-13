@@ -68,21 +68,59 @@
 
 ## ⭐ EGZERSİZ ÇALIŞMALARI ⭐
 
-### Başlangıç
+### ⬜ Silent Teacher
+
+> Yeni başlayanların, kodlamanın neyle ilgili olduğunu ve kodun arkasındaki temel kavramları hiçbir açıklama yapılmadan keşfedebilecekleri minimalist bir oyun. Birkaç soru dizisi aracılığıyla, oyuncu bu dilin kurallarını tahmin etmeye ve kendi hatalarından ders çıkarmaya yönlendirilir.
 
 ✔ [https://silentteacher.toxicode.fr/](https://silentteacher.toxicode.fr/)
 
+---
+
+### ⬜ W3schools - JS Exercises
+
+> Her eğitim için çeşitli alıştırmalar (cevaplarla birlikte) topladık. Bazı kodları düzenleyerek bir alıştırmayı çözmeye çalışın. Takılıp kalırsanız bir "ipucu" alın veya neyi yanlış yaptığınızı görmek için cevabı gösterin.
+
 ✔ [https://www.w3schools.com/js/exercise_js.asp](https://www.w3schools.com/js/exercise_js.asp)
 
-### Orta-İleri
+---
+
+### ⬜ JavaScript Algorithms and Data Structures
+
+> Temel bilgileri edindikten sonra, bu bilgiyi dizeleri işlemek, sayıları faktöriyelize etmek ve hatta Uluslararası Uzay İstasyonunun yörüngesini hesaplamak için algoritmalar oluşturarak uygulayacaksınız.
+>
+> Bu arada, iki önemli programlama stilini veya paradigmasını da öğreneceksiniz: Nesne Yönelimli Programlama (OOP) ve Fonksiyonel Programlama (FP).
 
 ✔ [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
+---
+
+### ⬜ JavaScript Hero
+
+> Etkileşimli alıştırmalar içeren JavaScript öğreticisi JS Hero ile kodlamayı öğrenin. Her sayfada bir ders ve bir alıştırma bulacaksınız. Görevi doğrudan sayfada yanıtlayın. Testleri çalıştırın ve işi doğru yapıp yapmadığınızı göreceksiniz.
+
 ✔ [https://www.jshero.net/en/success.html](https://www.jshero.net/en/success.html)
+
+---
+
+### ⬜ JavaScript Practical Coding Challenges For Beginners
+
+> Bu kodlama zorlukları yeni başlayanlar için tasarlanmıştır, bu nedenle önerilen çözümler yalnızca basit ve klasik programlama öğeleri kullanılarak uygulanır. Her çözüme, codeguppy.com'daki bir kod oyun alanında hızla çalıştırmanıza yardımcı olan bir çevrimiçi bağlantı eşlik eder.
 
 ✔ [https://hackernoon.com/javascript-practical-coding-challenges-for-beginners-4bq3ugr](https://hackernoon.com/javascript-practical-coding-challenges-for-beginners-4bq3ugr)
 
+---
+
+### ⬜ edabit.com
+
+> Herkes konuşulan bir dili öğrenmenin en hızlı yolunun anadili İngilizce olan kişilerle sohbet etmek olduğunu bilir. Aynı şekilde, kodlamayı öğrenmenin en hızlı yolu aslında kodlamaktır. Edabit, yeteneklerinizi hızla geliştirebilmeniz için neredeyse sınırsız bir ısırık büyüklüğünde egzersiz kaynağı sunar.
+
 ✔ [https://edabit.com/challenges/javascript](https://edabit.com/challenges/javascript)
+
+---
+
+### ⬜ exercism.org
+
+> 31 JavaScript Konseptinde gruplandırılmış 139 alıştırmaya erişim için Exercism'in JavaScript Track'ine katılın, kodunuzun otomatik analizi ve kişisel rehberlik, hepsi %100 ücretsiz.
 
 ✔ [https://exercism.org/tracks/javascript](https://exercism.org/tracks/javascript)
 
