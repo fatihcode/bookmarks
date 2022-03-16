@@ -119,4 +119,4 @@
 
 ---
 
-#### [Anasayfa](./readme.md) | [Html-Css](./html-css.md) | [JavaScript](./javascript.md) | [React](./react.md) | [Git/Npm Komutları](./shortcut.md)
+#### [Anasayfa](./readme.md) | [▸Html-Css](./html-css.md) | [▸JavaScript](./javascript.md) | [▸React](./react.md) | [▸Git/Npm Komutları](./shortcut.md)

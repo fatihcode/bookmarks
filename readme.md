@@ -1,4 +1,4 @@
-# FRONTEND DEVELOPER BOOKMARKS
+# Frontend Developer Bookmarks
 
 Çalışmalarım boyunca yararlandığım ya da yararlanmayı düşündüğüm kaynakları bir araya toparlamaya çalıştım. Uzun olduğu için ayrı liste yapmayı tercih ettim.
 
@@ -132,4 +132,4 @@
 
 ---
 
-#### [Anasayfa](./readme.md) | [Html-Css](./html-css.md) | [JavaScript](./javascript.md) | [React](./react.md) | [Git/Npm Komutları](./shortcut.md)
+#### [Anasayfa](./readme.md) | [▸Html-Css](./html-css.md) | [▸JavaScript](./javascript.md) | [▸React](./react.md) | [▸Git/Npm Komutları](./shortcut.md)

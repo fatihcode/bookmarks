@@ -28,7 +28,7 @@
 
 # NPM Komutları
 
-### New React App
+### [New React App]()
 
 * `npx create-react-app [app-name]`
 
@@ -73,10 +73,6 @@
 * `npm i @emotion/styled`
 * `npm i @mui/icons-material`
 
-```sh
-npm i @mui/icons-material
-```
-
 ### [Semantic UI](https://www.npmjs.com/package/semantic-ui-react)
 
 * `npm i semantic-ui-react`
@@ -84,4 +80,4 @@ npm i @mui/icons-material
 
 ---
 
-#### [Anasayfa](./readme.md) | [Html-Css](./html-css.md) | [JavaScript](./javascript.md) | [React](./react.md) | [Git/Npm Komutları](./shortcut.md)
+#### [Anasayfa](./readme.md) | [▸Html-Css](./html-css.md) | [▸JavaScript](./javascript.md) | [▸React](./react.md) | [▸Git/Npm Komutları](./shortcut.md)
