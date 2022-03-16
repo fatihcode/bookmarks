@@ -26,6 +26,14 @@
 
 ---
 
+### ⛪Taskforce
+
+> Taskforce ile amacımız topluluk destekli ve açık kaynaklı eğitim içerikleri oluşturmak ve programlama öğrenmek isteyen kişilere temelden ileri seviyeye kadar proje bazlı içerikler sağlamak.
+
+✔ [https://github.com/Kodluyoruz/taskforce](https://github.com/Kodluyoruz/taskforce)
+
+---
+
 ## TAKİP EDİLESİ HESAPLAR
 
  *Dil öğrenme adına en etkili yöntem o dile mümkün olduğunca fazla maruz kalmaktır.* Sözün de geçtiği gibi öğrenirken günlük hayatta bu verilere farklı mecralardan da maruz kalırsak o kadar hızlı mesafe alırız. Kendi takip ettiğim hesapları aşağıda listeledim. Unuttuklarım var gördükçe güncellemeye çalışacağım.
@@ -86,7 +94,9 @@
 
 ✔ [https://twitter.com/denicmarko](https://twitter.com/denicmarko)
 
-✔ [https://twitter.com/dawsoncodes]()
+✔ [https://twitter.com/dawsoncodes](https://twitter.com/dawsoncodes)
+
+✔ [https://twitter.com/Amit_T18](https://twitter.com/Amit_T18)
 
 ✔ [https://twitter.com/ravinwashere](https://twitter.com/ravinwashere)
 
@@ -122,4 +132,4 @@
 
 ---
 
-#### [Anasayfa ](./readme.md) | [Html-Css](./html-css-kaynaklar.md) | [JavaScript](./javascript-kaynaklar.md) | [React](./react-kaynaklar.md)
+#### [Anasayfa](./readme.md) | [Html-Css](./html-css.md) | [JavaScript](./javascript.md) | [React](./react.md) | [Git/Npm Komutları](./shortcut.md)
