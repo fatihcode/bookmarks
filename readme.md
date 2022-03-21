@@ -2,11 +2,11 @@
 
 Çalışmalarım boyunca yararlandığım ya da yararlanmayı düşündüğüm kaynakları bir araya toparlamaya çalıştım. Uzun olduğu için ayrı liste yapmayı tercih ettim.
 
-## ⭐ [Html-Css Kaynak Listesi](./html-css-kaynaklar.md)
+## ⭐ [Html-Css Kaynak Listesi](./html-css.md)
 
-## ⭐ [JavaScript Kaynak Listesi](./javascript-kaynaklar.md)
+## ⭐ [JavaScript Kaynak Listesi](./javascript.md)
 
-## ⭐ [React Kaynak Listesi](./react-kaynaklar.md)
+## ⭐ [React Kaynak Listesi](./react.md)
 
 ## ⭐ EĞİTİM KANALLARI
 

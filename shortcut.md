@@ -64,6 +64,7 @@
 
 ### [Bootstrap](https://www.npmjs.com/package/bootstrap)
 
+* `npm i bootstrap`
 * `npm i react-bootstrap`
 
 ### [Material UI](https://www.npmjs.com/package/@mui/material)
