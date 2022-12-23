@@ -2,8 +2,8 @@
 
 ### Git Kurulumu
 
-* `git config user.name [name]` *"Kulanıcı adı belirleme"*
-* `git config user.email [email]` *"Mail adresi belirleme"*
+* `git config --global user.name [name]` *"Kulanıcı adı belirleme"*
+* `git config --global user.email [email]` *"Mail adresi belirleme"*
 
 ### GitHub'a Projeyi Yüklemek İçin;
 
